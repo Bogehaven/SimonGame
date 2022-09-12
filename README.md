@@ -13,5 +13,5 @@
 | Implement Game mode 2 and 3 |  |
 | Create sounds for the game |  |
 |  Play with Azure, Webserver or Thingspeak, how to visualize the game. Send requests “downlink” to the game, i.e. read the color sequence from Thingsspeak or Webserver instead of random. Play with APP design |  |
-| Experiment with sending data using LoraWAN technology | (X) |
-| Experiment with powering technologies (power-banks, batteries, etc.) |  |
+| Experiment with sending data using LoraWAN technology |  |
+| Experiment with powering technologies (power-banks, batteries, etc.) | (X)  |
