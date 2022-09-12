@@ -18,9 +18,8 @@
 
 
 ## Libraries
-- thingpulse/ESP8266 and ESP32 OLED driver for SSD1306 displays
 - adafruit/Adafruit GFX Library
 - adafruit/Adafruit SSD1306
-- fastled/FastLED@
+- fastled/FastLED
 - adafruit/Adafruit NeoPixel
 - adafruit/Adafruit BusIO
