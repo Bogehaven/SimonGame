@@ -15,3 +15,12 @@
 |  Play with Azure, Webserver or Thingspeak, how to visualize the game. Send requests “downlink” to the game, i.e. read the color sequence from Thingsspeak or Webserver instead of random. Play with APP design |  |
 | Experiment with sending data using LoraWAN technology |  |
 | Experiment with powering technologies (power-banks, batteries, etc.) | (X)  |
+
+
+## Libraries
+- thingpulse/ESP8266 and ESP32 OLED driver for SSD1306 displays
+- adafruit/Adafruit GFX Library
+- adafruit/Adafruit SSD1306
+- fastled/FastLED@
+- adafruit/Adafruit NeoPixel
+- adafruit/Adafruit BusIO
