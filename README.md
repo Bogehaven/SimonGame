@@ -16,6 +16,10 @@
 | Experiment with sending data using LoraWAN technology |  |
 | Experiment with powering technologies (power-banks, batteries, etc.) | (X)  |
 
+# Schematic
+<img width="1530" alt="schematic" src="https://user-images.githubusercontent.com/51487216/196667185-98a41edc-ac0e-40f1-b78c-7a75b3e75166.png">
+
+
 
 ## Libraries
 - adafruit/Adafruit GFX Library
@@ -23,3 +27,4 @@
 - fastled/FastLED
 - adafruit/Adafruit NeoPixel
 - adafruit/Adafruit BusIO
+
